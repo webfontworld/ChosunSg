@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'ChosunKm';
+    font-family: 'ChosunSg';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.eot');
