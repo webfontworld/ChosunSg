@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ChosunSg';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSg/ChosunSg.ttf') format("truetype");
+    font-display: swap;
+}
